@@ -1,4 +1,4 @@
-# ClusterEnsemble
+# Cluster Ensemble for Commercial Data
 
 The objective of this project is to assess the improvements in prediction accuracy by using a cluster ensemble with commercial data. The project illustrates implementation of the idea proposed in "A comparative study of clustering ensemble algorithms".
 
