@@ -8,12 +8,12 @@ The objective of this project is to assess the improvements in prediction accura
 - sklearn >= ??
 - matplotlib >= ??
 
-## Data:
+### Data:
 - [Elo, Kaggle](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion)
 - [Red Hat, Kaggle](https://www.kaggle.com/c/predicting-red-hat-business-value/data)
 - [Instacart, Kaggle](https://www.kaggle.com/c/instacart-market-basket-analysis/kernels)
 
-## To do list:
+### To do list:
 - [ ] Create data structures
 - [ ] Perform single clustering
 - [ ] Perform cluster ensemble
@@ -22,7 +22,7 @@ The objective of this project is to assess the improvements in prediction accura
 - [ ] Prediction with cluster ensemble
 - [ ] Comparative analysis
 
-# Contributors
+### Contributors
 
 - [Dmitrii Baluev](https://github.com/zuenko) research, modeling, testing.
 - [Dmitrii Kriukov](https://github.com/jurg96) research, modeling, testing.
@@ -30,5 +30,5 @@ The objective of this project is to assess the improvements in prediction accura
 - [Van Khachatryan](https://github.com/vkhachatryan) research, modeling, testing.
 - [Pavel Ivanov](https://github.com/rubaha96) testing.
 
-# Reference
+#### Reference
 1. "[A comparative study of clustering ensemble algorithms](https://www.sciencedirect.com/science/article/pii/S0045790617325417)" Xiuge Wu , Tinghuai Ma, Jie Cao, Yuan Tian, Alia Alabdulkarim
