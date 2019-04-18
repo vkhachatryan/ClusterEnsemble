@@ -23,13 +23,5 @@ The objective of this project is to assess the improvements in prediction accura
 - [x] Prediction with cluster ensemble
 - [x] Comparative analysis
 
-### Contributors
-
-- [Dmitrii Baluev]() research, modeling, testing.
-- [Dmitrii Kriukov]() research, modeling, testing.
-- [Nikita Melentev]() supervision, research, modeling, testing.
-- [Van Khachatryan](https://github.com/vkhachatryan) supervision, research, modeling, testing.
-- [Pavel Ivanov]() reporting, presentation, testing.
-
 #### Reference
 1. "[A comparative study of clustering ensemble algorithms](https://www.sciencedirect.com/science/article/pii/S0045790617325417)" Xiuge Wu , Tinghuai Ma, Jie Cao, Yuan Tian, Alia Alabdulkarim
